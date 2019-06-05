@@ -1,5 +1,9 @@
 <template>
   <div class="hello">
+    <h1>asdaadafa</h1>
+    <b-button >sdad</b-button>
+     <b-button variant="success">Success</b-button>
+ 
     <h1>{{ msg }}</h1>
     <p>
       For a guide and recipes on how to configure / customize this project,<br>
